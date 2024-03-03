@@ -160,7 +160,7 @@ Google BigQuery will act as the primary data warehouse:
   
 
 ## Architecture Diagram
-
+<img src="Data engineering architecture.png">
   
 
   
