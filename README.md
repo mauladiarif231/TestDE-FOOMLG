@@ -163,8 +163,6 @@ Google BigQuery will act as the primary data warehouse:
 
   
 
-_Please note: Actual diagrams or flowcharts, cannot be provided within markdown format. In an actual document, this section would reference or include a visual representation of the architecture._
-
   
 
 ## System Scalability and Growth
