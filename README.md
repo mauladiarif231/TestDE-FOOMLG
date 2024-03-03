@@ -1,4 +1,4 @@
-# Establish Next-Generation Software and Data Architecture
+# Establish Next-Generation Software and Data Architecture & Locate Data Sources and Plan Data Transformations
 
 # Technical Specifications Document for FOOM's Data Infrastructure Redesign
 
